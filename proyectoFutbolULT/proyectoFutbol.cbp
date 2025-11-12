@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyectoFutbol" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyectoFutbol" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyectoFutbol" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ArchivoClub.cpp" />
+		<Unit filename="ArchivoClub.h" />
+		<Unit filename="ArchivoEstadio.cpp" />
+		<Unit filename="ArchivoEstadio.h" />
+		<Unit filename="ArchivoJugador.cpp" />
+		<Unit filename="ArchivoJugador.h" />
+		<Unit filename="ArchivoPartido.cpp" />
+		<Unit filename="ArchivoPartido.h" />
+		<Unit filename="ArchivoSanciones.cpp" />
+		<Unit filename="ArchivoSanciones.h" />
+		<Unit filename="ArchivoTorneo.cpp" />
+		<Unit filename="ArchivoTorneo.h" />
+		<Unit filename="Club.cpp" />
+		<Unit filename="Club.h" />
+		<Unit filename="Estadio.cpp" />
+		<Unit filename="Estadio.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Jugador.cpp" />
+		<Unit filename="Jugador.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Partido.cpp" />
+		<Unit filename="Partido.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Sanciones.cpp" />
+		<Unit filename="Sanciones.h" />
+		<Unit filename="Torneo.cpp" />
+		<Unit filename="Torneo.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

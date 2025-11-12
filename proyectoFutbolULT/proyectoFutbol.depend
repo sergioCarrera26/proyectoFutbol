@@ -1,0 +1,701 @@
+# depslib dependency file v1.0
+1761800084 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\main.cpp
+	<iostream>
+	"Menu.h"
+
+1762791522 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\jugador.cpp
+	<iostream>
+	"Jugador.h"
+
+1762791244 c:\users\sergi\onedrive\escritorio\proyectofutbol\jugador.h
+	"Persona.h"
+
+1761223920 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1761223160 c:\users\sergi\onedrive\escritorio\proyectofutbol\fecha.h
+
+1761799140 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1762093672 c:\users\sergi\onedrive\escritorio\proyectofutbol\persona.h
+	"Fecha.h"
+
+1762016432 c:\users\sergi\onedrive\escritorio\proyectofutbol\menu.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"ArchivoJugador.h"
+	"ArchivoClub.h"
+	"ArchivoPartido.h"
+	"ArchivoTorneo.h"
+	"ArchivoSanciones.h"
+	"ArchivoEstadio.h"
+
+1762799964 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1762843700 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\club.cpp
+	"Club.h"
+	"Partido.h"
+	<iostream>
+	<cstring>
+
+1762843586 c:\users\sergi\onedrive\escritorio\proyectofutbol\club.h
+
+1761799140 c:\users\sergi\onedrive\escritorio\proyectofutbol\partido.h
+	"Fecha.h"
+
+1762843586 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\partido.cpp
+	"Partido.h"
+	"Club.h"
+	<iostream>
+
+1762791786 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\torneo.cpp
+	"Torneo.h"
+	<iostream>
+	<cstring>
+
+1762791848 c:\users\sergi\onedrive\escritorio\proyectofutbol\torneo.h
+	"Fecha.h"
+
+1761802652 c:\users\sergi\onedrive\escritorio\proyectofutbol\sanciones.h
+
+1761726818 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\sanciones.cpp
+	"Sanciones.h"
+	<iostream>
+	<cstring>
+
+1762793230 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\estadio.cpp
+	"Estadio.h"
+	<iostream>
+	<cstring>
+
+1762793230 c:\users\sergi\onedrive\escritorio\proyectofutbol\estadio.h
+
+1761399892 c:\users\sergi\onedrive\escritorio\proyectofutbol\partidoportorneo.h
+
+1761399918 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\partidoportorneo.cpp
+	"PartidoPorTorneo.h"
+	<iostream>
+
+1761386426 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\club.cpp
+	"Club.h"
+	<iostream>
+	<cstring>
+
+1761248428 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\club.h
+
+1761398598 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\estadio.cpp
+	"Estadio.h"
+	<iostream>
+	<cstring>
+
+1761396902 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\estadio.h
+
+1761252720 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1761251960 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\fecha.h
+
+1761437076 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\jugador.cpp
+	<iostream>
+	"Jugador.h"
+
+1761339380 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\jugador.h
+	"Persona.h"
+
+1761249002 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\persona.h
+	"Fecha.h"
+
+1761390058 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\main.cpp
+	<iostream>
+	"Menu.h"
+
+1761400246 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\menu.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"PartidoPorTorneo.h"
+
+1761339412 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\partido.h
+	"Fecha.h"
+
+1761390938 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\torneo.h
+	"Fecha.h"
+
+1761392558 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\sanciones.h
+
+1761399892 c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\partidoportorneo.h
+
+1761513743 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1761339380 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\partido.cpp
+	"Partido.h"
+	<iostream>
+
+1761399918 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\partidoportorneo.cpp
+	"PartidoPorTorneo.h"
+	<iostream>
+
+1761249002 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1761436068 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\sanciones.cpp
+	"Sanciones.h"
+	<iostream>
+	<cstring>
+
+1761389368 source:c:\users\lauty\downloads\nueva carpeta (5)\proyectofutbol\torneo.cpp
+	"Torneo.h"
+	<iostream>
+	<cstring>
+
+1761607914 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\club.cpp
+	"Club.h"
+	<iostream>
+	<cstring>
+
+1761248428 c:\users\lauty\downloads\tp prog 3\proyectofutbol\club.h
+
+1761398598 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\estadio.cpp
+	"Estadio.h"
+	<iostream>
+	<cstring>
+
+1761396902 c:\users\lauty\downloads\tp prog 3\proyectofutbol\estadio.h
+
+1761252720 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1761251960 c:\users\lauty\downloads\tp prog 3\proyectofutbol\fecha.h
+
+1761682811 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\jugador.cpp
+	<iostream>
+	"Jugador.h"
+
+1761682811 c:\users\lauty\downloads\tp prog 3\proyectofutbol\jugador.h
+	"Persona.h"
+
+1761667772 c:\users\lauty\downloads\tp prog 3\proyectofutbol\persona.h
+	"Fecha.h"
+
+1761683624 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\main.cpp
+	<iostream>
+	"Menu.h"
+	"Archivo.h"
+
+1761595383 c:\users\lauty\downloads\tp prog 3\proyectofutbol\menu.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"PartidoPorTorneo.h"
+
+1761339412 c:\users\lauty\downloads\tp prog 3\proyectofutbol\partido.h
+	"Fecha.h"
+
+1761390938 c:\users\lauty\downloads\tp prog 3\proyectofutbol\torneo.h
+	"Fecha.h"
+
+1761392558 c:\users\lauty\downloads\tp prog 3\proyectofutbol\sanciones.h
+
+1761399892 c:\users\lauty\downloads\tp prog 3\proyectofutbol\partidoportorneo.h
+
+1761607914 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1761339380 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\partido.cpp
+	"Partido.h"
+	<iostream>
+
+1761399918 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\partidoportorneo.cpp
+	"PartidoPorTorneo.h"
+	<iostream>
+
+1761667730 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1761436068 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\sanciones.cpp
+	"Sanciones.h"
+	<iostream>
+	<cstring>
+
+1761389368 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\torneo.cpp
+	"Torneo.h"
+	<iostream>
+	<cstring>
+
+1761683580 source:c:\users\lauty\downloads\tp prog 3\proyectofutbol\archivo.cpp
+	<iostream>
+	<cstring>
+	"Archivo.h"
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"PartidoPorTorneo.h"
+
+1761682811 c:\users\lauty\downloads\tp prog 3\proyectofutbol\archivo.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Estadio.h"
+	"PartidoPorTorneo.h"
+
+1761769241 source:c:\users\lauty\downloads\la chispa\proyectofutbol\archivo.cpp
+	<iostream>
+	<cstring>
+	"Archivo.h"
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"PartidoPorTorneo.h"
+
+1761750711 c:\users\lauty\downloads\la chispa\proyectofutbol\archivo.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Estadio.h"
+	"PartidoPorTorneo.h"
+
+1761682811 c:\users\lauty\downloads\la chispa\proyectofutbol\jugador.h
+	"Persona.h"
+
+1761667772 c:\users\lauty\downloads\la chispa\proyectofutbol\persona.h
+	"Fecha.h"
+
+1761251960 c:\users\lauty\downloads\la chispa\proyectofutbol\fecha.h
+
+1761767867 c:\users\lauty\downloads\la chispa\proyectofutbol\club.h
+
+1761748066 c:\users\lauty\downloads\la chispa\proyectofutbol\partido.h
+	"Fecha.h"
+
+1761750740 c:\users\lauty\downloads\la chispa\proyectofutbol\torneo.h
+	"Fecha.h"
+
+1761767867 c:\users\lauty\downloads\la chispa\proyectofutbol\estadio.h
+
+1761769098 c:\users\lauty\downloads\la chispa\proyectofutbol\partidoportorneo.h
+
+1761754128 c:\users\lauty\downloads\la chispa\proyectofutbol\sanciones.h
+
+1761689227 source:c:\users\lauty\downloads\la chispa\proyectofutbol\club.cpp
+	"Club.h"
+	<iostream>
+	<cstring>
+
+1761767877 source:c:\users\lauty\downloads\la chispa\proyectofutbol\estadio.cpp
+	"Estadio.h"
+	<iostream>
+	<cstring>
+
+1761252720 source:c:\users\lauty\downloads\la chispa\proyectofutbol\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1761748066 source:c:\users\lauty\downloads\la chispa\proyectofutbol\partido.cpp
+	"Partido.h"
+	<iostream>
+
+1761769098 source:c:\users\lauty\downloads\la chispa\proyectofutbol\partidoportorneo.cpp
+	"PartidoPorTorneo.h"
+	<iostream>
+
+1761667730 source:c:\users\lauty\downloads\la chispa\proyectofutbol\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1761755618 source:c:\users\lauty\downloads\la chispa\proyectofutbol\sanciones.cpp
+	"Sanciones.h"
+	<iostream>
+	<cstring>
+
+1761750727 source:c:\users\lauty\downloads\la chispa\proyectofutbol\torneo.cpp
+	"Torneo.h"
+	<iostream>
+	<cstring>
+
+1761768428 source:c:\users\lauty\downloads\la chispa\proyectofutbol\jugador.cpp
+	<iostream>
+	"Jugador.h"
+
+1761769483 source:c:\users\lauty\downloads\la chispa\proyectofutbol\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1761769361 c:\users\lauty\downloads\la chispa\proyectofutbol\menu.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"PartidoPorTorneo.h"
+	"Archivo.h"
+
+1761748245 source:c:\users\lauty\downloads\la chispa\proyectofutbol\main.cpp
+	<iostream>
+	"Menu.h"
+	"Archivo.h"
+
+1761830683 source:c:\users\lauty\downloads\carpeta\proyectofutbol\archivo.cpp
+	<iostream>
+	<cstring>
+	"Archivo.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+
+1761830683 c:\users\lauty\downloads\carpeta\proyectofutbol\archivo.h
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Estadio.h"
+
+1762045035 c:\users\lauty\downloads\carpeta\proyectofutbol\jugador.h
+	"Persona.h"
+
+1762129672 c:\users\lauty\downloads\carpeta\proyectofutbol\persona.h
+	"Fecha.h"
+
+1761251960 c:\users\lauty\downloads\carpeta\proyectofutbol\fecha.h
+
+1761767867 c:\users\lauty\downloads\carpeta\proyectofutbol\club.h
+
+1761827941 c:\users\lauty\downloads\carpeta\proyectofutbol\partido.h
+	"Fecha.h"
+
+1761750740 c:\users\lauty\downloads\carpeta\proyectofutbol\torneo.h
+	"Fecha.h"
+
+1761767867 c:\users\lauty\downloads\carpeta\proyectofutbol\estadio.h
+
+1761769098 c:\users\lauty\downloads\carpeta\proyectofutbol\partidoportorneo.h
+
+1761831452 c:\users\lauty\downloads\carpeta\proyectofutbol\sanciones.h
+
+1761689227 source:c:\users\lauty\downloads\carpeta\proyectofutbol\club.cpp
+	"Club.h"
+	<iostream>
+	<cstring>
+
+1761825186 source:c:\users\lauty\downloads\carpeta\proyectofutbol\estadio.cpp
+	"Estadio.h"
+	<iostream>
+	<cstring>
+
+1761252720 source:c:\users\lauty\downloads\carpeta\proyectofutbol\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1762045120 source:c:\users\lauty\downloads\carpeta\proyectofutbol\jugador.cpp
+	<iostream>
+	"Jugador.h"
+
+1761828884 source:c:\users\lauty\downloads\carpeta\proyectofutbol\main.cpp
+	<iostream>
+	"Menu.h"
+
+1762045232 c:\users\lauty\downloads\carpeta\proyectofutbol\menu.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"ArchivoJugador.h"
+	"ArchivoClub.h"
+	"ArchivoPartido.h"
+	"ArchivoTorneo.h"
+	"ArchivoSanciones.h"
+	"ArchivoEstadio.h"
+
+1762379200 source:c:\users\lauty\downloads\carpeta\proyectofutbol\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1761828309 source:c:\users\lauty\downloads\carpeta\proyectofutbol\partido.cpp
+	"Partido.h"
+	<iostream>
+
+1761769098 source:c:\users\lauty\downloads\carpeta\proyectofutbol\partidoportorneo.cpp
+	"PartidoPorTorneo.h"
+	<iostream>
+
+1761827941 source:c:\users\lauty\downloads\carpeta\proyectofutbol\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1761755618 source:c:\users\lauty\downloads\carpeta\proyectofutbol\sanciones.cpp
+	"Sanciones.h"
+	<iostream>
+	<cstring>
+
+1761750727 source:c:\users\lauty\downloads\carpeta\proyectofutbol\torneo.cpp
+	"Torneo.h"
+	<iostream>
+	<cstring>
+
+1762379182 c:\users\lauty\downloads\carpeta\proyectofutbol\archivojugador.h
+	"Jugador.h"
+
+1762269386 source:c:\users\lauty\downloads\carpeta\proyectofutbol\archivoclub.cpp
+	<iostream>
+	<cstring>
+	"ArchivoClub.h"
+
+1762262154 c:\users\lauty\downloads\carpeta\proyectofutbol\archivoclub.h
+	"Club.h"
+
+1762379182 source:c:\users\lauty\downloads\carpeta\proyectofutbol\archivojugador.cpp
+	<iostream>
+	<cstring>
+	"ArchivoJugador.h"
+	"ArchivoClub.h"
+
+1761830047 c:\users\lauty\downloads\carpeta\proyectofutbol\archivopartido.h
+	"Partido.h"
+
+1761830549 source:c:\users\lauty\downloads\carpeta\proyectofutbol\archivopartido.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPartido.h"
+
+1761830550 source:c:\users\lauty\downloads\carpeta\proyectofutbol\archivotorneo.cpp
+	<iostream>
+	<cstring>
+	"ArchivoTorneo.h"
+
+1761830271 c:\users\lauty\downloads\carpeta\proyectofutbol\archivotorneo.h
+	"Torneo.h"
+
+1762269386 source:c:\users\lauty\downloads\carpeta\proyectofutbol\archivosanciones.cpp
+	<iostream>
+	<cstring>
+	"ArchivoSanciones.h"
+
+1761830505 c:\users\lauty\downloads\carpeta\proyectofutbol\archivosanciones.h
+	"Sanciones.h"
+
+1761830683 source:c:\users\lauty\downloads\carpeta\proyectofutbol\archivoestadio.cpp
+	<iostream>
+	<cstring>
+	"ArchivoEstadio.h"
+
+1761830731 c:\users\lauty\downloads\carpeta\proyectofutbol\archivoestadio.h
+	"Estadio.h"
+
+1762269386 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivoclub.cpp
+	<iostream>
+	<cstring>
+	"ArchivoClub.h"
+
+1762262154 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivoclub.h
+	"Club.h"
+
+1761767867 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\club.h
+
+1762829298 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivoestadio.cpp
+	<iostream>
+	<cstring>
+	"ArchivoEstadio.h"
+	"ArchivoClub.h"
+
+1761830731 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivoestadio.h
+	"Estadio.h"
+
+1762829230 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\estadio.h
+
+1762827523 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivojugador.cpp
+	<iostream>
+	<cstring>
+	"ArchivoJugador.h"
+	"ArchivoClub.h"
+
+1762379182 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivojugador.h
+	"Jugador.h"
+
+1762827244 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\jugador.h
+	"Persona.h"
+
+1762129672 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\persona.h
+	"Fecha.h"
+
+1761251960 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\fecha.h
+
+1761830549 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivopartido.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPartido.h"
+
+1761830047 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivopartido.h
+	"Partido.h"
+
+1761827941 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\partido.h
+	"Fecha.h"
+
+1762269386 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivosanciones.cpp
+	<iostream>
+	<cstring>
+	"ArchivoSanciones.h"
+
+1761830505 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivosanciones.h
+	"Sanciones.h"
+
+1761831452 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\sanciones.h
+
+1761830550 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivotorneo.cpp
+	<iostream>
+	<cstring>
+	"ArchivoTorneo.h"
+
+1761830271 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\archivotorneo.h
+	"Torneo.h"
+
+1762827849 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\torneo.h
+	"Fecha.h"
+
+1761689227 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\club.cpp
+	"Club.h"
+	<iostream>
+	<cstring>
+
+1762829230 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\estadio.cpp
+	"Estadio.h"
+	<iostream>
+	<cstring>
+
+1761252720 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1762827523 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\jugador.cpp
+	<iostream>
+	"Jugador.h"
+
+1761828884 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\main.cpp
+	<iostream>
+	"Menu.h"
+
+1762045232 c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\menu.h
+	"Jugador.h"
+	"Club.h"
+	"Partido.h"
+	"Torneo.h"
+	"Sanciones.h"
+	"Estadio.h"
+	"ArchivoJugador.h"
+	"ArchivoClub.h"
+	"ArchivoPartido.h"
+	"ArchivoTorneo.h"
+	"ArchivoSanciones.h"
+	"ArchivoEstadio.h"
+
+1762379200 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1761828309 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\partido.cpp
+	"Partido.h"
+	<iostream>
+
+1761827941 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\persona.cpp
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1761755618 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\sanciones.cpp
+	"Sanciones.h"
+	<iostream>
+	<cstring>
+
+1762827787 source:c:\users\lauty\downloads\nueva carpeta (3)\proyectofutbol\torneo.cpp
+	"Torneo.h"
+	<iostream>
+	<cstring>
+
+1762233386 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\archivoclub.cpp
+	<iostream>
+	<cstring>
+	"ArchivoClub.h"
+
+1762226154 c:\users\sergi\onedrive\escritorio\proyectofutbol\archivoclub.h
+	"Club.h"
+
+1762793298 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\archivoestadio.cpp
+	<iostream>
+	<cstring>
+	"ArchivoEstadio.h"
+	"ArchivoClub.h"
+
+1761801930 c:\users\sergi\onedrive\escritorio\proyectofutbol\archivoestadio.h
+	"Estadio.h"
+
+1762791522 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\archivojugador.cpp
+	<iostream>
+	<cstring>
+	"ArchivoJugador.h"
+	"ArchivoClub.h"
+
+1762343182 c:\users\sergi\onedrive\escritorio\proyectofutbol\archivojugador.h
+	"Jugador.h"
+
+1761801748 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\archivopartido.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPartido.h"
+
+1761801246 c:\users\sergi\onedrive\escritorio\proyectofutbol\archivopartido.h
+	"Partido.h"
+
+1762233386 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\archivosanciones.cpp
+	<iostream>
+	<cstring>
+	"ArchivoSanciones.h"
+
+1761801704 c:\users\sergi\onedrive\escritorio\proyectofutbol\archivosanciones.h
+	"Sanciones.h"
+
+1762844250 source:c:\users\sergi\onedrive\escritorio\proyectofutbol\archivotorneo.cpp
+	<iostream>
+	<cstring>
+	"ArchivoTorneo.h"
+	"Torneo.h"
+	"Club.h"
+
+1761801470 c:\users\sergi\onedrive\escritorio\proyectofutbol\archivotorneo.h
+	"Torneo.h"
+
